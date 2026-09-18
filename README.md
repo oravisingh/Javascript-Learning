@@ -1,2 +1,2 @@
-# Javvascript-Learning
+# Javascript-Learning
 Learning JavaScripts Again
